@@ -1,28 +1,12 @@
 # aws
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Traditional Approach (Before Cloud)
-Before cloud computing, if we wanted to deploy an application. We had to purchase physical servers, similar to how we buy laptops. These servers had high configuration (CPU, RAM, storage, networking).
-We were responsible for:
-    * Setting up networking
-    * Managing hardware
-    * Maintaining infrastructure
-    * Handling security and backups
-
-Even if we bought a powerful server. Usually, we could deploy only one application on it.
-  * Most of the server resources remained unused.
-  * It was not cost-effective.
-  * Scaling required buying more physical servers.
-  * Everything had to be managed manually.
-
-### What is cloud :
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## Introduction to AWS
 what is private and public cloud.
 Why companies are moving to public cloud
 what are the advantages of moving to cloud.
 Introduction to the basics of AWS, including the core services and their significance in DevOps practices.
 How to set up an AWS account and navigate the AWS Management Console.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## IAM (Identity and Access Management)
 Explore IAM

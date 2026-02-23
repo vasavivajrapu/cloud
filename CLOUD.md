@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Traditional Approach (Before Cloud)
 Before cloud computing, if we wanted to deploy an application. We had to purchase physical servers, similar to how we buy laptops. These servers had high configuration (CPU, RAM, storage, networking).
-We were responsible for:
+##### We were responsible for:
     * Setting up networking
     * Managing hardware
     * Maintaining infrastructure
@@ -58,7 +58,6 @@ Private Cloud is a cloud infrastructure used exclusively by a single organizatio
 Public Cloud is a cloud infrastructure owned and managed by a third-party provider and delivered over the internet to multiple customers.
 * hybrid cloud
 Hybrid Cloud is a combination of Private Cloud and Public Cloud working together.
-
 
 Simply accessing a physical server from another location does not make it cloud. A private cloud requires virtualization, automation, self-service provisioning, and cloud-like resource management within an organization.
 
